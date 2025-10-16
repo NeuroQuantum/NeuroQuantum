@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeuroQuantum
-- 👀 I’m interested in Physics, Computer science, Computational Neuroscience, Quantum Computing and Number Theory in Mathematics
-- 🌱 I’m currently learning Post-Quantum Cryptography
+- 👀 I’m interested in Physics, Computer science, NeuroAI, Computational Neuroscience, Quantum Computing and Number Theory in Mathematics
+- 🌱 I’m currently focused on research in NeuroAI and Post-Quantum Cryptography
 - 💞️ I’m looking to collaborate in research areas mentioned above. 
 - 📫 I can be reached at AshuScienceResearch@gmail.com and https://www.linkedin.com/in/ashubhatnagar
   
